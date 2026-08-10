@@ -18,7 +18,9 @@ Clone the repo:
 git clone https://github.com/vaibhav-dev1707/Cpp-Arena
 ```
 Navigate to the project directory:<br>
-cd Cpp-Arena<br>
+```
+cd Cpp-Arena
+```
 Compile and run any program:<br>
 g++ program.cpp -o program
 ./program
