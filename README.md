@@ -14,7 +14,9 @@
 <h2>⚙️ Quick Setup:</h2>
 Clone the repo:
 
-git clone https://github.com/vaibhav-dev1707/Cpp-Arena<br>
+...
+git clone https://github.com/vaibhav-dev1707/Cpp-Arena
+...
 Navigate to the project directory:<br>
 cd Cpp-Arena<br>
 Compile and run any program:<br>
@@ -32,7 +34,7 @@ program.exe
   <li>The repository "Cpp-Arena" is organized to gradually build our understanding of C++ from fundamentals to advanced concepts.</li>
 </ul>
 <ol>
-  <li><strong>Basics</strong>: Variables, data types, operators, user input/output, and basic programming constructs.</li>
+  <li><strong>Basics</strong>: Variables, data types, operators, user input/output and basic programming constructs.</li>
 
 <li><strong>Conditionals</strong>: Decision-making programs using if-else statements, swith cases and logical operators.</li>
 
@@ -96,8 +98,8 @@ program.exe
 <h2>💬 Why I Made This</h2>
 
 <ul>
-  <li>Cpp-Arena started as a personal learning repository where I practiced C++ concepts, solved problems and experimented with different programming ideas. Over time, it grew into a structured collection of examples and projects that can help other learners understand C++ more effectively.
-The goal goal is simple: learn by building, experimenting, making mistakes and improving one programming at a time.</li>
+  <li>Cpp-Arena started as a personal learning repository where I practiced C++ concepts, solved problems and experimented with different programming ideas. Over time, it grew into a structured collection of examples and projects that can help other learners understand C++ more effectively.</li>
+  <li>The goal goal is simple: learn by building, experimenting, making mistakes and improving one programming at a time.</li>
 </ul>
 
 <h2>🧾 License</h2>
