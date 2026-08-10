@@ -112,6 +112,8 @@ arena.exe
 
 <h2>🙌 Credit</h2>
 
+
 <ul>
   <li>Built and maintained by [Vaibhav](https://github.com/vaibhav-dev1707) with the goal of helping beginners and aspiring developers learn C++ through hands-on coding, experimention and continuous practice.</li>
 </ul>
+Built and maintained by [Vaibhav](https://github.com/vaibhav-dev1707) and contributors.
