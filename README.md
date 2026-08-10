@@ -22,8 +22,10 @@ Navigate to the project directory:<br>
 cd Cpp-Arena
 ```
 Compile and run any program:<br>
+```
 g++ program.cpp -o program
 ./program
+```
 On Windows (MinGW):
 g++ program.cpp -o program.exe
 program.exe
