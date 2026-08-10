@@ -22,14 +22,10 @@ Navigate to the project directory:<br>
 cd Cpp-Arena
 ```
 Compile and run any program:<br>
+On Windows (MinGW):<br>
 ```
-g++ program.cpp -o program
-./program
-```
-On Windows (MinGW):
-```
-g++ program.cpp -o program.exe
-program.exe
+g++ arena.cpp -o program.exe
+arena.exe
 ```
 
 💡 Each program is standalone and can be compiled independently.
