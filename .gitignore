@@ -1,42 +1,42 @@
-# USER DEFINED
+# USER DEFINED --------------------------------------------------
 
 .vscode/
 .vs
 *.code-workspace
 
-# SYSTEM GENERATED
+# SYSTEM GENERATED --------------------------------------------------
 |
-# prerequisites
+# prerequisites --------------------------------------------------
 *.d
 
-# Object files
+# Object files --------------------------------------------------
 *.o
 *.obj
 *.ko
 *.elf
 
-# Precompiled Headers
+# Precompiled Headers --------------------------------------------------
 *.gch
 *.pch
 
-# Linker output
+# Linker output --------------------------------------------------
 *.ilk
 *.map
 *.exp
 
-# Libraries
+# Libraries --------------------------------------------------
 *.lib
 *.a
 *.la
 *.lo
 
-# Shared objects (inc. Windows DLLs)
+# Shared objects (inc. Windows DLLs) --------------------------------------------------
 *.dll
 *.so
 *.so.*
 *.dylib
 
-# Executables
+# Executables --------------------------------------------------
 *.exe
 *.out
 *.app
@@ -44,12 +44,12 @@
 *.x86_64
 *.hex
 
-# Debug files
+# Debug files --------------------------------------------------
 *.dSYM
 *.su
 *.idb
 *.pdb
 
-# OS generated files
+# OS generated files --------------------------------------------------
 .DS_Store
 Thumbs.db
