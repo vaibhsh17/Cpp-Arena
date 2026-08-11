@@ -21,8 +21,7 @@ Navigate to the project directory:<br>
 ```
 cd Cpp-Arena
 ```
-Compile and run any program:<br>
-On Windows (MinGW):<br>
+Compile and run:<br>
 ```
 g++ arena.cpp -o program.exe
 arena.exe
