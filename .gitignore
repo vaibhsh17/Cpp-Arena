@@ -1,5 +1,54 @@
-# user defined
+# USER DEFINED
 
 .vscode/
 .vs
-.code-workspace
+*.code-workspace
+
+# SYSTEM GENERATED
+# prerequisites
+*.d
+
+# Object files
+*.o
+*.obj
+*.ko
+*.elf
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM
+*.su
+*.idb
+*.pdb
+
+# OS generated files
+.DS_Store
+Thumbs.db
