@@ -23,7 +23,7 @@ cd Cpp-Arena
 ```
 Compile and run:<br>
 ```
-g++ arena.cpp -o program.exe
+g++ arena.cpp -o arena.exe
 arena.exe
 ```
 
