@@ -118,3 +118,9 @@ arena.exe
 <ul>
   <li>Built and maintained by [Vaibhav](https://github.com/vaibhav-dev1707) and contributors.</li>
 </ul>
+
+<h2>⭐ Show Your Support!</h2>
+
+<ul>
+  <li>If it is useful for beginners and you like it give ⭐, on github.</li>
+</ul>
