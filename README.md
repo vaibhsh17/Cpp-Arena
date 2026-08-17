@@ -122,5 +122,5 @@ arena.exe
 <h2>⭐ Show Your Support!</h2>
 
 <ul>
-  <li>If it is useful for beginners and you like it give ⭐, on github.</li>
+  <li>If it is useful for beginners and you like it, give ⭐ on github.</li>
 </ul>
