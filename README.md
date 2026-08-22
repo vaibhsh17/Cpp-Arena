@@ -3,9 +3,7 @@
 # **Cpp-Arena**
 </div>
 
-<ul>
-  <li>Cpp-Arena is structured collection of C++ programs, and a open playground for C++ learners, builders and problem-solvers. The project exploring Object-Oriented Programming, experimenting with STL or building small projects, the repository provides a structured enviourment to learn, practice and grow.</li>
-</ul>
+- Cpp-Arena is structured collection of C++ programs, and a open playground for C++ learners, builders and problem-solvers. The project exploring Object-Oriented Programming, experimenting with STL or building small projects, the repository provides a structured enviourment to learn, practice and grow.
 
 **This repository serves as both:**
 
@@ -126,9 +124,11 @@ Cpp-Arena welcomes contributions from learners and developers of all skill level
 
 Built and maintained by [Vaibhav](https://github.com/vaibhsh17) with the goal of helping beginners and aspiring developers learn C++ through hands-on coding, experimention and continuous practice.
 
+---
 
-<h2>⭐ Show Your Support!</h2>
+<div align="center">
 
-<ul>
-  <li>If it is useful for beginners and you like it, give ⭐ on github.</li>
-</ul>
+# **⭐ Show Your Support!**
+</div>
+
+- If it is useful for beginners and you like it, give ⭐ on github.
