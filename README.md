@@ -7,14 +7,15 @@
   <li>Cpp-Arena is structured collection of C++ programs, and a open playground for C++ learners, builders and problem-solvers. The project exploring Object-Oriented Programming, experimenting with STL or building small projects, the repository provides a structured enviourment to learn, practice and grow.</li>
 </ul>
 
-<h2>This repository serves as both: </h2>
+**This repository serves as both:**
 
-<ul>
-  <li> A collection of beginner-friendly programs, coding exercises, data structure implementations and mini-projects organized for easy learning.</li>
-  <li> A hands-on experimentation space where concepts can be explored through code, helping learners understand not only how things work  but also why they work.</li>
-</ul>
+- A collection of beginner-friendly programs, coding exercises, data structure implementations and mini-projects organized for easy learning.
+- A hands-on experimentation space where concepts can be explored through code, helping learners understand not only how things work  but also why they work.
 
-<h2>⚙️ Quick Setup:</h2>
+<div align="center">
+
+# **⚙️ Quick Setup:**
+</div>
 Clone the repo:
 
 ```
@@ -32,11 +33,13 @@ arena.exe
 
 💡 Each program is standalone and can be compiled independently.
 
-<h2>📘 Topics Covered:</h2>
+<div align="center">
 
-<ul>
-  <li>The repository "Cpp-Arena" is organized to gradually build our understanding of C++ from fundamentals to advanced concepts.</li>
-</ul>
+# **📘 Topics Covered:**
+</div>
+
+-The repository "Cpp-Arena" is organized to gradually build our understanding of C++ from fundamentals to advanced concepts.
+
 
 - **Basics**: Variables, data types, operators, user input/output and basic programming constructs.
 
@@ -61,49 +64,51 @@ arena.exe
 - **Mini Projects**: Small practice application and console-based projects that combine multiple concepts together.
 
 
-<h2>🎯 Learning Goals:</h2>
+<div align="center">
+
+# **🎯 Learning Goals:**
+</div>
    Through this repository, learners will:<br>
-<ul>
-  <li> Build a strong foundation in C++ programming.</li>
-  <li>Understand Object-Oriented Programming concepts.</li>
-  <li>Understand Object-Oriented Programming concepts.</li>
-  <li> Explore memory management and pointers.</li>
-  <li>Gain confidence in using STL containers and algorithms.</li>
-  <li>Preparing for coding interviews, unversity couresework and real-world projects.</li>
-</ul>
 
-<h2>🤝 Contributing</h2>
+- Build a strong foundation in C++ programming.
+- Understand Object-Oriented Programming concepts.
+- Understand Object-Oriented Programming concepts.
+- Explore memory management and pointers.
+- Gain confidence in using STL containers and algorithms.
+- Preparing for coding interviews, unversity couresework and real-world projects.
 
-<ul>
- <li>Cpp-Arena welcomes contributions from learners and developers of all skill levels.</li>
-</ul>
 
- <strong> You can contribute by</strong>:<br>
+<div align="center">
 
-<ul>
-  <li> Adding new programs and examples.</li>
-  <li>Improving existing solutions.</li>
-  <li>Enhancing documentation.</li>
-  <li>Adding mini-projects and coding challanges.</li>
-  <li>Optimizing code and improving readbility.</li>
-</ul>
+# **🤝 Contributing**
+</div>
 
-<strong>Contributions Steps</strong>:
+Cpp-Arena welcomes contributions from learners and developers of all skill levels.
 
-<ul>
-  <li>Fork the repository.</li>
-  <li>Create a new branch.</li>
-  <li>Add your code in the appropriate folder.</li>
-  <li>Write clear comments and documantations.</li>
-  <li>Submit a pull request.</li>
-</ul>
+**You can contribute by:**
 
-<h2>💬 Why I Made This</h2>
+- Adding new programs and examples.
+- Improving existing solutions.
+- Enhancing documentation.
+- Adding mini-projects and coding challanges.
+- Optimizing code and improving readbility.
 
-<ul>
-  <li>Cpp-Arena started as a personal learning repository where I practiced C++ concepts, solved problems and experimented with different programming ideas. Over time, it grew into a structured collection of examples and projects that can help other learners understand C++ more effectively.</li>
-  <li>The goal goal is simple: learn by building, experimenting, making mistakes and improving one programming at a time.</li>
-</ul>
+
+**Contributions Steps:**
+
+- Fork the repository.
+- Create a new branch.
+- Add your code in the appropriate folder.
+- Write clear comments and documantations.
+- Submit a pull request.
+
+<div align="center">
+
+# **💬 Why I Made This**
+</div>
+
+- Cpp-Arena started as a personal learning repository where I practiced C++ concepts, solved problems and experimented with different programming ideas. Over time, it grew into a structured collection of examples and projects that can help other learners understand C++ more effectively.</li>
+- The goal goal is simple: learn by building, experimenting, making mistakes and improving one programming at a time.</li>
 
 <div align="center">
 
@@ -119,7 +124,7 @@ arena.exe
 # **🙌 Credit**
 </div>
 
-  Built and maintained by [Vaibhav](https://github.com/vaibhsh17) with the goal of helping beginners and aspiring developers learn C++ through hands-on coding, experimention and continuous practice.
+Built and maintained by [Vaibhav](https://github.com/vaibhsh17) with the goal of helping beginners and aspiring developers learn C++ through hands-on coding, experimention and continuous practice.
 
 
 <h2>⭐ Show Your Support!</h2>
