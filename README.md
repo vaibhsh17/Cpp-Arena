@@ -34,30 +34,29 @@ arena.exe
 <ul>
   <li>The repository "Cpp-Arena" is organized to gradually build our understanding of C++ from fundamentals to advanced concepts.</li>
 </ul>
-<ol>
-  <li> **Basics**: Variables, data types, operators, user input/output and basic programming constructs.</li>
 
-<li>**Conditionals**: Decision-making programs using if-else statements, swith cases and logical operators.</li>
+- **Basics**: Variables, data types, operators, user input/output and basic programming constructs.
 
-<li>**Loops**: Programs involving for, while, do-while, nested loops and patterns generation.</li>
+- **Conditionals**: Decision-making programs using if-else statements, swith cases and logical operators.
 
-<li>**Arrays**: Single-dimensional arrays, multi-dimensional arrays, searching, sorting and array manipulation techniques.</li>
+**Loops**: Programs involving for, while, do-while, nested loops and patterns generation.
 
-<li>**String**: String handling using both C-style and C++ String library.</li>
+- **Arrays**: Single-dimensional arrays, multi-dimensional arrays, searching, sorting and array manipulation techniques.
 
-<li>**Functions**: Function creation, parameter passing, recursion, function overloading and modular programming.</li>
+- **String**: String handling using both C-style and C++ String library.
 
-<li>**Pointer**: Pointer basics, pointer arithmetic, arrays and pointers, dynamic memory alllocation and memory management concepts.
-</li>
+- **Functions**: Function creation, parameter passing, recursion, function overloading and modular programming.
 
-<li>**Object-Oriented-Programming*: Class, objects, constructors, distructors, inheritance, polymorphism, encapsulation and abstraction.</li>
+- **Pointer**: Pointer basics, pointer arithmetic, arrays and pointers, dynamic memory alllocation and memory management concepts.
 
-<li>**Standered Templete Library (STL)**: Vector, Stack, Queue, maps, sets, iterators, algorithms and commonly used STL utilities.</li>
+- **Object-Oriented-Programming*: Class, objects, constructors, distructors, inheritance, polymorphism, encapsulation and abstraction.
 
-<li>**Data Structure & Algorithms**: Linked Lists, Stacks, Queues, Trees, Searching Sorting and prolrm-solving techniques.</li>
+- **Standered Templete Library (STL)**: Vector, Stack, Queue, maps, sets, iterators, algorithms and commonly used STL utilities.
 
-<li>**Mini Projects**: Small practice application and console-based projects that combine multiple concepts together.</li>
-</ol>
+- **Data Structure & Algorithms**: Linked Lists, Stacks, Queues, Trees, Searching Sorting and prolrm-solving techniques.
+
+- **Mini Projects**: Small practice application and console-based projects that combine multiple concepts together.
+
 
 <h2>🎯 Learning Goals:</h2>
    Through this repository, learners will:<br>
