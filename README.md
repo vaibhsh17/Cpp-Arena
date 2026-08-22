@@ -105,12 +105,14 @@ arena.exe
   <li>The goal goal is simple: learn by building, experimenting, making mistakes and improving one programming at a time.</li>
 </ul>
 
-<h2>🧾 License</h2>
+<div align="center">
 
-<ul>
-  <li>This project is open-sourced under the MIT License. Feel free to explore, learn, modify and build upon the code.</li>
-  <li>See the [LICENCE](https://github.com/vaibhsh17/Cpp-Arena/blob/main/LICENSE) file for more details.</li>
-</ul>
+# **LICENCE**
+</div>
+
+- This project is open-sourced under the MIT License. Feel free to explore, learn, modify and build upon the code.
+- See the [LICENCE](https://github.com/vaibhsh17/Cpp-Arena/blob/main/LICENSE) file for more details.
+
 
 <div align="center">
 
