@@ -49,7 +49,7 @@ arena.exe
 
 - **Pointer**: Pointer basics, pointer arithmetic, arrays and pointers, dynamic memory alllocation and memory management concepts.
 
-- **Object-Oriented-Programming*: Class, objects, constructors, distructors, inheritance, polymorphism, encapsulation and abstraction.
+- **Object-Oriented-Programming**: Class, objects, constructors, distructors, inheritance, polymorphism, encapsulation and abstraction.
 
 - **Standered Templete Library (STL)**: Vector, Stack, Queue, maps, sets, iterators, algorithms and commonly used STL utilities.
 
