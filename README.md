@@ -113,7 +113,7 @@ arena.exe
 
 
 <ul>
-  <li>Built and maintained by [Vaibhav](https://github.com/vaibhav-dev1707) with the goal of helping beginners and aspiring developers learn C++ through hands-on coding, experimention and continuous practice.</li>
+  <li>Built and maintained by[Vaibhav](https://github.com/vaibhsh17) with the goal of helping beginners and aspiring developers learn C++ through hands-on coding, experimention and continuous practice.</li>
 </ul>
 
 <h2>⭐ Show Your Support!</h2>
