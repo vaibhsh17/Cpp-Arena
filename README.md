@@ -36,14 +36,14 @@ arena.exe
 # **📘 Topics Covered:**
 </div>
 
--The repository "Cpp-Arena" is organized to gradually build our understanding of C++ from fundamentals to advanced concepts.
+- The repository "Cpp-Arena" is organized to gradually build our understanding of C++ from fundamentals to advanced concepts.
 
 
 - **Basics**: Variables, data types, operators, user input/output and basic programming constructs.
 
 - **Conditionals**: Decision-making programs using if-else statements, swith cases and logical operators.
 
-**Loops**: Programs involving for, while, do-while, nested loops and patterns generation.
+- **Loops**: Programs involving for, while, do-while, nested loops and patterns generation.
 
 - **Arrays**: Single-dimensional arrays, multi-dimensional arrays, searching, sorting and array manipulation techniques.
 
