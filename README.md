@@ -112,12 +112,13 @@ arena.exe
   <li>See the [LICENCE](https://github.com/vaibhsh17/Cpp-Arena/blob/main/LICENSE) file for more details.</li>
 </ul>
 
-<h2>🙌 Credit</h2>
+<div align="center">
 
+# **🙌 Credit**
+</div>
 
-<ul>
-  <li>Built and maintained by [Vaibhav](https://github.com/vaibhsh17) with the goal of helping beginners and aspiring developers learn C++ through hands-on coding, experimention and continuous practice.</li>
-</ul>
+  Built and maintained by [Vaibhav](https://github.com/vaibhsh17) with the goal of helping beginners and aspiring developers learn C++ through hands-on coding, experimention and continuous practice.
+
 
 <h2>⭐ Show Your Support!</h2>
 
