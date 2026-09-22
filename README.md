@@ -12,7 +12,7 @@
 
 <div align="center">
 
-# **⚙️ Quick Setup:**
+# ⚙️ **Quick Setup:**
 </div>
 Clone the repo:
 
@@ -33,7 +33,7 @@ arena.exe
 
 <div align="center">
 
-# **📘 Topics Covered:**
+# 📘 **Topics Covered:**
 </div>
 
 - The repository "Cpp-Arena" is organized to gradually build our understanding of C++ from fundamentals to advanced concepts.
@@ -64,7 +64,7 @@ arena.exe
 
 <div align="center">
 
-# **🎯 Learning Goals:**
+# 🎯 **Learning Goals:**
 </div>
    Through this repository, learners will:<br>
 
@@ -78,7 +78,7 @@ arena.exe
 
 <div align="center">
 
-# **🤝 Contributing**
+# 🤝 **Contributing**
 </div>
 
 Cpp-Arena welcomes contributions from learners and developers of all skill levels.
@@ -102,7 +102,7 @@ Cpp-Arena welcomes contributions from learners and developers of all skill level
 
 <div align="center">
 
-# **💬 Why I Made This**
+# 💬 **Why I Made This**
 </div>
 
 - Cpp-Arena started as a personal learning repository where I practiced C++ concepts, solved problems and experimented with different programming ideas. Over time, it grew into a structured collection of examples and projects that can help other learners understand C++ more effectively.</li>
@@ -119,16 +119,7 @@ Cpp-Arena welcomes contributions from learners and developers of all skill level
 
 <div align="center">
 
-# **🙌 Credit**
+# 🙌 **Credit**
 </div>
 
-Built and maintained by [Vaibhav](https://github.com/vaibhsh17) with the goal of helping beginners and aspiring developers learn C++ through hands-on coding, experimention and continuous practice.
-
----
-
-<div align="center">
-
-# **⭐ Show Your Support!**
-</div>
-
-- If it is useful for beginners and you like it, give ⭐ on github.
+- Built and maintained by [Vaibhav](https://github.com/vaibhsh17) with the goal of helping beginners and aspiring developers learn C++ through hands-on coding, experimention and continuous practice.
