@@ -110,7 +110,7 @@ Cpp-Arena welcomes contributions from learners and developers of all skill level
 
 <div align="center">
 
-# **LICENCE**
+# 📄**LICENCE**
 </div>
 
 - This project is open-sourced under the MIT License. Feel free to explore, learn, modify and build upon the code.
@@ -122,4 +122,4 @@ Cpp-Arena welcomes contributions from learners and developers of all skill level
 # 🙌 **Credit**
 </div>
 
-- Built and maintained by [Vaibhav](https://github.com/vaibhsh17) with the goal of helping beginners and aspiring developers learn C++ through hands-on coding, experimention and continuous practice.
+- Built and maintained by [Vaibhav](https://github.com/vaibhsh17), with the goal of helping beginners and aspiring developers learn C++ through hands-on coding, experimention and continuous practice.
